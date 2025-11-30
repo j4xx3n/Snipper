@@ -1,0 +1,4 @@
+requests>=2.31.0
+playwright>=1.35.0
+Wappalyzer>=1.0.0
+wafw00f>=2.1.0
