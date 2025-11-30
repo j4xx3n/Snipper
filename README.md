@@ -20,6 +20,7 @@
 - Install dependencies via pip:
 
 ```bash
+git clone https://github.com/j4xx3n/Snipper.git
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
