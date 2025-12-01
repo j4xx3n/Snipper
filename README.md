@@ -21,9 +21,12 @@
 
 ```bash
 git clone https://github.com/j4xx3n/Snipper.git
+cd Snipper
+
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
 chmod u+x snipper.py
 ```
 
