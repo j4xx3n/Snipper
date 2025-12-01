@@ -32,4 +32,17 @@ chmod u+x snipper.py
 ```
 
 ## Usage
+```bash
+┌──(venv)─(kali㉿kali)-[~/Tools/Snipper]
+└─$ ./snipper.py -h
+usage: snipper.py [-h] -i INPUT [-o OUTPUT]
 
+Snipper: Screenshot + WAF + Tech Fingerprinting Tool
+
+options:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        File containing list of URLs
+  -o OUTPUT, --output OUTPUT
+                        Output directory (default: results)
+```
